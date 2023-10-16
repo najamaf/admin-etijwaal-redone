@@ -1,0 +1,34 @@
+
+.chart-active {
+  background-color: gray !important;
+  color: #fff !important;
+}
+
+.active {
+    background-color: #ED8936 !important;
+    color: #fff !important;
+};
+
+  th {
+    background-color: #ED8936;
+  }
+
+thead {
+  background-color: #ED8936;
+}
+
+table td {
+  color: gray !important;
+  font-weight: 500;
+  font-size: 14px;
+}
+
+canvas {
+  width: 100% !important;
+  /* height: 200px !important; */
+}
+
+/* footer {
+  position: absolute !important;
+  bottom: 0 !important;
+} */
